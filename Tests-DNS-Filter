@@ -6,7 +6,7 @@
 
 ! ----- [BLOQUEIA OS DOMÍNIOS E ENVIA UMA RESPOSTA DE "CONEXÃO RECUSADA"] ----- !
 ||teste.block^$dnsrewrite=REFUSED;;
-||x.com^$dnsrewrite=REFUSED;;
+||x.com|com.x^$dnsrewrite=REFUSED;;
 ||facebook.com^$dnsrewrite=REFUSED;;
 ||twitter.com^$dnsrewrite=REFUSED;;
 ||orkut.com^$dnsrewrite=NXDOMAIN;;
