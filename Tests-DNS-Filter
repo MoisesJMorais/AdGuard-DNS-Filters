@@ -10,4 +10,4 @@
 ||facebook.com^$dnsrewrite=REFUSED;;
 ||twitter.com^$dnsrewrite=REFUSED;;
 ||orkut.com^$dnsrewrite=REFUSED;;
-||telegram.com^$dnsrewrite=REFUSED;;
+||telegram.com^$dnsrewrite=NOERROR;TXT;Esse site foi bloqueado por Moisés Morais
