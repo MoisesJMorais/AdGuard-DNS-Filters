@@ -1,0 +1,13 @@
+! ----- [BLOQUEIA TODOS OS DOMÍNIOS TERMINADOS EM ".bet"] ----- !
+/.bet*/$important
+
+! ----- [BLOQUEIA TODOS OS DOMÍNIOS INSERIDOS NA REGRA ABAIXO] ----- !
+/.globo.com|.r7.com|.club*/$important
+
+! ----- [BLOQUEIA OS DOMÍNIOS E ENVIA UMA RESPOSTA DE "CONEXÃO RECUSADA"] ----- !
+||teste.block^$dnsrewrite=REFUSED;;
+||x.com^$dnsrewrite=REFUSED;;
+||facebook.com^$dnsrewrite=REFUSED;;
+||twitter.com^$dnsrewrite=REFUSED;;
+||orkut.com^$dnsrewrite=REFUSED;;
+||telegram.com^$dnsrewrite=REFUSED;;
