@@ -9,5 +9,5 @@
 ||x.com^$dnsrewrite=REFUSED;;
 ||facebook.com^$dnsrewrite=REFUSED;;
 ||twitter.com^$dnsrewrite=REFUSED;;
-||orkut.com^$dnsrewrite=REFUSED;;
+||orkut.com^$dnsrewrite=NXDOMAIN;;
 ||telegram.com^$dnsrewrite=NOERROR;TXT;Esse site foi bloqueado por Moisés Morais
