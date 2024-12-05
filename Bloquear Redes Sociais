@@ -1,0 +1,21 @@
+#--- [FILTRO PARA ADGUARD - BLOQUEIO DE REDES SOCIAIS] ---#
+!--- Atualizado: 05/12/2024
+!--- Regras: 11
+!
+    ||facebook.com^
+	||messenger.com^
+	||intagram.com^
+	||threads.com^
+	||x.com^
+	||snapchat.com^
+	||tiktok.com^
+	||kwai.com^
+	||bsky.social^
+	||bsky.app^
+	||23snaps.com^
+    ||aminoapps.com^
+    ||badoo.com^
+    ||bebo.com^
+    ||poply.com^
+    ||colnect.com^
+	||couchsurfing.com^
