@@ -1,12 +1,13 @@
 # ----------[UPDATE]----------
 # Title: Block-Gambling-Hosts
-# Block Rules: 78.477
-# Last Update: 27/11/2024
+# Block Rules: 78.478
+# Last Update: 05/12/2024
 
 # ----------[DESCRIÇÃO]----------
 # Este filtro para AdGuard bloqueia sites e anúncios de cassino online, apostas, jogos de azar e plataformas de Trading.
 # ---------------------------------------------------------------------------------------------------------------------------------
 
+||betvera.com^
 ||melbet.com^
 ||melbetbr.com^
 ||h2.bet^
