@@ -1,6 +1,7 @@
 #--- [FILTRO PARA ADGUARD - BLOQUEIO DE REDES SOCIAIS] ---#
 !--- Atualizado: 05/12/2024
 !--- Regras: 17
+!___________________________________________________________
 !
 	||facebook.com^
 	||messenger.com^
