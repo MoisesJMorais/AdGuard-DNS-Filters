@@ -4,10 +4,53 @@
 !___________________________________________
 !
 !Forçar Pesquisa Segura do Google:
-	216.239.38.120 google.com
-	216.239.38.120 www.google.com
-	216.239.38.120 google.co.uk
-	216.239.38.120 www.google.co.uk
+216.239.38.120 google.lv
+216.239.38.120 google.md
+216.239.38.120 google.me
+216.239.38.120 google.mg
+216.239.38.120 google.mk
+216.239.38.120 google.ml
+216.239.38.120 google.mn
+216.239.38.120 google.ms
+216.239.38.120 google.mu
+216.239.38.120 google.mv
+216.239.38.120 google.mw
+216.239.38.120 google.ne
+216.239.38.120 google.nl
+216.239.38.120 google.no
+216.239.38.120 google.nr
+216.239.38.120 google.nu
+216.239.38.120 google.pl
+216.239.38.120 google.pn
+216.239.38.120 google.ps
+216.239.38.120 google.pt
+216.239.38.120 google.ro
+216.239.38.120 google.rs
+216.239.38.120 google.ru
+216.239.38.120 google.rw
+216.239.38.120 google.sc
+216.239.38.120 google.se
+216.239.38.120 google.sh
+216.239.38.120 google.si
+216.239.38.120 google.sk
+216.239.38.120 google.sm
+216.239.38.120 google.sn
+216.239.38.120 google.so
+216.239.38.120 google.sr
+216.239.38.120 google.st
+216.239.38.120 google.td
+216.239.38.120 google.tg
+216.239.38.120 google.tk
+216.239.38.120 google.tl
+216.239.38.120 google.tm
+216.239.38.120 google.tn
+216.239.38.120 google.to
+216.239.38.120 google.tt
+216.239.38.120 google.vg
+216.239.38.120 google.vu
+216.239.38.120 google.ws
+216.239.38.120 www.google.com
+216.239.38.120 google.com
 
 !Forçar Pesquisa Segura do Bing:
 	204.79.197.220 www.bing.com
