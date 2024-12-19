@@ -1,6 +1,6 @@
 ! ------------------------------------[UPDATE]--------------------------------------
 ! Title: The Big List Project - Ransomware List (AdGuard Filter)
-! Este filtro protege seu dispositivo bloqueando sites conhecidos por infectar os computadores com Ransomware.
+! Este filtro ajuda a proteger o seu dispositivo bloqueando sites conhecidos por infectar aparelhos com Ransomware. Criminosos usam este tipo de vírus para roubar dados e arquivos pessoais do usuário, utilizando da posse desses dados para extorquir as vítimas em troca de poder recuperá-los.
 ! -------------------------------------[INFO]---------------------------------------
 ! Ransomware list
 ! ------------------------------------[FILTERS]-------------------------------------
