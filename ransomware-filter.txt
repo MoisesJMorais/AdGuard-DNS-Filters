@@ -1,7 +1,6 @@
 ! ------------------------------------[UPDATE]--------------------------------------
 ! Title: The Big List Project - Ransomware List (AdGuard Filter)
-! Total number of network filters: 1904
-! Last Update: 19/12/24
+! Este filtro protege seu dispositivo bloqueando sites conhecidos por infectar os computadores com Ransomware.
 ! -------------------------------------[INFO]---------------------------------------
 ! Ransomware list
 ! ------------------------------------[FILTERS]-------------------------------------
