@@ -2,7 +2,7 @@
 ! Title: The Big List Project: Gambling List (AdGuard Filter)
 ! Este filtro foi especialmente desenvolvido para bloquear o acesso a todos os sites de cassino e jogos de azar conhecidos. O filtro contém regras que bloqueiam não apenas o acesso aos sites da lista, mas também bloqueia anúncios referentes a esses sites espalhados pela web.
   Atualizado: 05/12/2024
-!_________________[FILTERS]________________________
+!_________________[FILTERS]_________________________
 	||betvera.com^
 	||melbet.com^
 	||melbetbr.com^
