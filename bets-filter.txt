@@ -4,11 +4,9 @@
 !_________________[FILTERS]________________________
 /bet.br*/
 /.bet*/
-||71x.co^
-||71x.com^
-||71x.club^
-||bolivia-pick.com^
-||scores24.live^
+/71x.*/
+/bolivia-pick.*/
+/scores24.*/
 ||82bet.com^
 ||pinnacle.com^
 ||betnacional.com^
