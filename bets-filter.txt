@@ -2,16 +2,17 @@
 ! Title: Big List Project: Gambling (AdGuard DNS Filter)
 ! Este filtro foi especialmente desenvolvido para bloquear o acesso a todos os sites de cassino e jogos de azar conhecidos. O filtro contém regras que bloqueiam não apenas o acesso aos sites da lista, mas também bloqueia anúncios referentes a esses sites espalhados pela web.
 !_________________[FILTERS]________________________
-	||cassino.bet.br^
-	||71x.co^
-	||71x.com^
-	||71x.club^
-	||bolivia-pick.com^
-	||scores24.live^
-	||82bet.com^
-	||pinnacle.com^
-	||betnacional.com^
-	||betnacional.bet.br^
+/bet.br*/
+/.bet*/
+||71x.co^
+||71x.com^
+||71x.club^
+||bolivia-pick.com^
+||scores24.live^
+||82bet.com^
+||pinnacle.com^
+||betnacional.com^
+||betnacional.bet.br^
 	||xpgames.bet^
 	||sportingbet.com^
 	||seubet.com^
