@@ -7,18 +7,17 @@
 /71x.*/
 /bolivia-pick.*/
 /scores24.*/
-||82bet.com^
-||pinnacle.com^
-||betnacional.com^
-||betnacional.bet.br^
-	||xpgames.bet^
-	||sportingbet.com^
-	||seubet.com^
-	||in2bet.com^
-	||vbet.lat^
-	||betao.bet.br^
-	||playing.io^
-	||7games.bet.br^
+/82bet.*/
+/pinnacle.*/
+/betnacional.*/
+/xpgames.bet*/
+/sportingbet.*/
+/seubet.*/
+/in2bet.*/
+/vbet.*/
+/betao.*/
+||playing.io^
+/7games.bet*/
 	||7games.bet^
 	||bet5u.bet^
 	||bet5u.com^
