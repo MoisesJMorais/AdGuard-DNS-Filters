@@ -1,6 +1,8 @@
-#----------------- [UPDATE] -----------------#
+#------------- [UPDATE] -------------#
 ! Title: Bloquear Redes Sociais
-! Bloqueia totalmente o acesso às redes sociais Facebook, Instagram, X (antigo Twitter), Orkut, TikTok, Kwai e semelhantes.
+! Bloqueia totalmente o acesso às redes sociais Facebook, Instagram, X (antigo Twitter), Orkut, TikTok, Kwai, AminoApps, Badoo, Bebo, Colnect, CouchSurfing, CyWorld, FetLife, Filmow, FourSquare, Friendica, Friendster, GaiaOnline, GoPets, Hello Network, HI5 e semelhantes.
+
+#------------- [REGRAS] -------------#
 
 !BLOQUEIA O FACEBOOK
 /facebook.*/
@@ -27,3 +29,17 @@
 !BLOQUEIA O KWAI
 /kwai.*/
 ||kwai.com^
+
+!BLOQUEIA O AMINOAPPS
+/aminoapps.*/
+||aminoapps.com^
+
+!BLOQUEIA O BADOO
+/badoo.*/
+||badoo.com^
+
+!BLOQUEIA O BEBO
+/beboandcompany.*/
+||beboandcompany.com^
+
+
