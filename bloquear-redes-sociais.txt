@@ -17,7 +17,7 @@
 ||twitter.com^
 
 !BLOQUEIA O ORKUT
-/orkut */
+/orkut.*/
 ||orkut.com^
 
 !BLOQUEIA O TIKTOK
