@@ -4,42 +4,70 @@
 
 #------------- [REGRAS] -------------#
 
-!BLOQUEIA O FACEBOOK
+!BLOQUEAR FACEBOOK
 /facebook.*/
 ||facebook.com^
 
-!BLOQUEIA O INSTAGRAM
+!BLOQUEAR INSTAGRAM
 /instagram.*/
 ||instagram.com^
 
-!BLOQUEIA O X (ANTIGO TWITTER)
+!BLOQUEAR X (ANTIGO TWITTER)
 /x.*/
 ||x.com^
 /twitter.*/
 ||twitter.com^
 
-!BLOQUEIA O ORKUT
+!BLOQUEAR ORKUT
 /orkut.*/
 ||orkut.com^
 
-!BLOQUEIA O TIKTOK
+!BLOQUEAR TIKTOK
 /tiktok.*/
 ||tiktok.com^
 
-!BLOQUEIA O KWAI
+!BLOQUEAR KWAI
 /kwai.*/
 ||kwai.com^
 
-!BLOQUEIA O AMINOAPPS
+!BLOQUEAR AMINOAPPS
 /aminoapps.*/
 ||aminoapps.com^
 
-!BLOQUEIA O BADOO
+!BLOQUEAR BADOO
 /badoo.*/
 ||badoo.com^
 
-!BLOQUEIA O BEBO
+!BLOQUEAR BEBO
 /beboandcompany.*/
 ||beboandcompany.com^
+
+!BLOQUEAR COLNECT
+/colnect.*/
+||colnect.com^
+
+!BLOQUEAR COUCHSURFING
+/couchsurfing.*/
+||couchsurfing.com^
+
+!BLOQUEAR CYWORLD
+/cyworld.*/
+||cyworld.com^
+
+!BLOQUEAR FETLIFE
+/fetlife.*/
+||fetlife.com^
+
+!BLOQUEAR FILMOW
+/filmow.*/
+||filmow.com^
+
+!BLOQUEAR FOURSQUARE
+/foursquare.*/
+||foursquare.com^
+
+!BLOQUEAR FRIENDICA
+/friendi.ca*/
+||friendi.ca^
 
 
