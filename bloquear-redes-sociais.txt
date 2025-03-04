@@ -70,4 +70,14 @@
 /friendi.ca*/
 ||friendi.ca^
 
+!BLOQUEAR FRIENDSTER
+/friendster.*/
+||friendster.com^
 
+!BLOQUEAR GAIAONLINE
+/gaiaonline.*/
+||gaiaonline.com^
+
+!BLOQUEAR GOPETS
+/gopets.*/
+||gopets.com^
