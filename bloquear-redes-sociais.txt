@@ -1,0 +1,29 @@
+#----------------- [UPDATE] -----------------#
+! Title: Bloquear Redes Sociais
+! Bloqueia totalmente o acesso às redes sociais Facebook, Instagram, X (antigo Twitter), Orkut, TikTok, Kwai e semelhantes.
+
+!BLOQUEIA O FACEBOOK
+/facebook.*/
+||facebook.com^
+
+!BLOQUEIA O INSTAGRAM
+/instagram.*/
+||instagram.com^
+
+!BLOQUEIA O X (ANTIGO TWITTER)
+/x.*/
+||x.com^
+/twitter.*/
+||twitter.com^
+
+!BLOQUEIA O ORKUT
+/orkut */
+||orkut.com^
+
+!BLOQUEIA O TIKTOK
+/tiktok.*/
+||tiktok.com^
+
+!BLOQUEIA O KWAI
+/kwai.*/
+||kwai.com^
