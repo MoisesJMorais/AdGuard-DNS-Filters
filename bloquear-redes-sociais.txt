@@ -5,21 +5,16 @@
 #------------- [REGRAS] -------------#
 
 !BLOQUEAR FACEBOOK
-/facebook.*/
 ||facebook.com^
 
 !BLOQUEAR INSTAGRAM
-/instagram.*/
 ||instagram.com^
 
 !BLOQUEAR X (ANTIGO TWITTER)
-/x.*/
 ||x.com^
-/twitter.*/
 ||twitter.com^
 
 !BLOQUEAR ORKUT
-/orkut.*/
 ||orkut.com^
 
 !BLOQUEAR TIKTOK
