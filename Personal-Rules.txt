@@ -1,5 +1,8 @@
 #SITES CATÓLICOS
     ||vatican.va^
-
-#PORN HOSTS
-    ||video-hub.com^
+    ||cancaonova.com^
+    ||cnbb.org.br^
+    ||sitecatolico.com.br^
+    ||ofielcatolico.com.br^
+    ||oficinacomsaojose.com.br^
+    ||ffb.org.br^
