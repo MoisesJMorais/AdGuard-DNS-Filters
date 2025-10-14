@@ -4,7 +4,7 @@
 ! Version: 1.0.0-DB
 !__________________[REGRAS]___________________
 # Forçar Pesquisa Segura do Google
-	226.239.38.120 google.com.br
+	216.239.38.120 google.com.br
 	216.239.38.120 google.com
 	216.239.38.120 www.google.com
 	216.239.38.120 google.co.uk
