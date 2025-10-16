@@ -1,5 +1,5 @@
 #----------------- [FILTRO] -----------------#
-! Title: Forçar SafeSearch
+! Title: Forçar o SafeSearch
 ! Força a pesquisa segura em mecanismos de busca como o Google, Bing, Yahoo, Yandex e bloqueia todos os outros mecanismos de busca que não suportam o recurso de pesquisa segura.
 ! Version: 1.0.0-DB
 !__________________[REGRAS]___________________
@@ -9,6 +9,8 @@
 	216.239.38.120 www.google.com
 	216.239.38.120 google.co.uk
 	216.239.38.120 www.google.co.uk
+216.239.38.120 google.com.ar
+216.239.38.120 www.google.com.ar
 
 # Forçar Pesquisa Segura do Bing
 	204.79.197.220 www.bing.com
