@@ -13,6 +13,9 @@
 	@@||portaldoaluno.fatecie.edu.br^$important
 	@@||ead.eduno.com.br^$important
 	@@||moodle.ifrs.edu.br^$important
+    @@||mundi.ifsul.edu.br^$important
+    @@||eskadauema.com^$important
+    @@||escolavirtual.gov.br^$important
 	@@||s.youtube.com^$important
 	@@||drive.google.com^$important
 	@@||mail.google.com^$important
