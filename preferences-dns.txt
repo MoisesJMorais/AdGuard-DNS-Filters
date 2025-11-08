@@ -1,6 +1,6 @@
 #----------------- [FILTRO] -----------------#
 ! Title: Preferências de DNS
-! Regras de usuário personalizadas para filtragem DNS.
+! Regras de usuário personalizadas para filtragem de DNS no AdGuard.
 ! Version: 1.0.0-DB
 !__________________[REGRAS]___________________
 # Não aplicar filtros:
