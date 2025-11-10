@@ -21,7 +21,7 @@
 	@@||s.youtube.com^$important
 	@@||drive.google.com^$important
 	@@||mail.google.com^$important
-	
+@@||naval.com.br^$important
 	
 # Forçar Pesquisa Segura:
 	||google.com^$dnsrewrite=forcesafesearch.google.com
