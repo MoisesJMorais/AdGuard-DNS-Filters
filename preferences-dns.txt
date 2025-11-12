@@ -23,6 +23,7 @@
 	@@||mail.google.com^$important
 @@||naval.com.br^$important
 @@||*.gov.br^$important
+@@||policiacivil.pr.gov.br^$important
 	
 # Forçar Pesquisa Segura:
 	||google.com^$dnsrewrite=forcesafesearch.google.com
