@@ -24,9 +24,12 @@
 	@@||naval.com.br^$important
 	@@||*.gov.br^$important
 	@@||policiacivil.pr.gov.br^$important
-	@@||netshoes.com.br^$important
+	@@||amazon.com.br^$important
 	@@||mercadolivre.com.br^$important
+	@@||magazineluiza.com.br^$important
+	@@||shopee.com.br^$important
 	@@||pontofrio.com.br^$important
+	@@||netshoes.com.br^$important
 	
 # Forçar Pesquisa Segura:
 	||google.com^$dnsrewrite=forcesafesearch.google.com
