@@ -21,9 +21,12 @@
 	@@||s.youtube.com^$important
 	@@||drive.google.com^$important
 	@@||mail.google.com^$important
-@@||naval.com.br^$important
-@@||*.gov.br^$important
-@@||policiacivil.pr.gov.br^$important
+	@@||naval.com.br^$important
+	@@||*.gov.br^$important
+	@@||policiacivil.pr.gov.br^$important
+	@@||netshoes.com.br^$important
+	@@||mercadolivre.com.br^$important
+	@@||pontofrio.com.br^$important
 	
 # Forçar Pesquisa Segura:
 	||google.com^$dnsrewrite=forcesafesearch.google.com
