@@ -18,6 +18,7 @@
     @@||mundi.ifsul.edu.br^$important
     @@||eskadauema.com^$important
     @@||escolavirtual.gov.br^$important
+	@@||aprendamais.mec.gov.br^$important
 	@@||s.youtube.com^$important
 	@@||drive.google.com^$important
 	@@||mail.google.com^$important
@@ -137,6 +138,21 @@
 	0.0.0.0 yippy.com
 	0.0.0.0 you.com
 	0.0.0.0 zoek.anchel.nl
+
+# Bloquear outros servidores DNS:
+		!ADGUARD DNS!
+	||dns.adguard-dns.com^$dnsrewrite=0.0.0.0,important
+	||unfiltered.adguard-dns.com^$dnsrewrite=0.0.0.0,important
+	||family.adguard-dns.com^$dnsrewrite=0.0.0.0,important
+	||94.140.14.14^$dnsrewrite=0.0.0.0,important
+	||94.140.15.15^$dnsrewrite=0.0.0.0,important
+	||94.140.14.140^$dnsrewrite=0.0.0.0,important
+	||94.140.14.141^$dnsrewrite=0.0.0.0,important
+	||94.140.14.15^$dnsrewrite=0.0.0.0,important
+	||94.140.15.16^$dnsrewrite=0.0.0.0,important
 	
 # Bloquear sites de Cassino:	
 	||*.bet.br^$dnsrewrite=0.0.0.0,important
+
+# Bloquear sites Fraudulentos:
+	||solarosafabrica.com^$important
