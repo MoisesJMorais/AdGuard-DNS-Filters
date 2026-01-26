@@ -1,0 +1,2 @@
+embedtvonline.com##.embed-modal
+embedtvonline.com##.vip-modal-overlay
