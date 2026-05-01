@@ -9,6 +9,7 @@
 	embedtvonline.com##.vip-modal-content
 	embedtvonline.com##body:style(overflow:auto!important;)
 	||vipcanaistv.com/images/*
+	xxx.com##+js(set, document.documentElement.innerHTML, "<html><body style='font-family:sans-serif;text-align:center;margin-top:50px;'><h1>🚫 Perigo!!!</h1><p>Este site foi bloqueado pelo AdGuard</p></body></html>")
 
 
 # Não aplicar filtros:
