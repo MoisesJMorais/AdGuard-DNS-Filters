@@ -3,14 +3,6 @@
 ! Regras de usuário personalizadas para filtragem de DNS no AdGuard.
 ! Version: 1.0.0-DB
 !__________________[REGRAS]___________________
-# Teste
-	embedtvonline.com##div#vipModal
-	embedtvonline.com##.vip-modal-overlay
-	embedtvonline.com##.vip-modal-content
-	embedtvonline.com##body:style(overflow:auto!important;)
-	||vipcanaistv.com/images/*
-
-
 # Não aplicar filtros:
 	@@||76.76.2.2^$important
 	@@||76.76.10.2^$important
