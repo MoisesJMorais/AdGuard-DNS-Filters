@@ -1,7 +1,7 @@
 #----------------- [FILTRO] -----------------#
 ! Title: Preferências de DNS
 ! Regras de usuário personalizadas para filtragem de DNS no AdGuard.
-! Version: 1.0.0-DB
+! Version: 2.0.0-M
 !__________________[REGRAS]___________________
 # Não aplicar filtros:
 	@@||76.76.2.2^$important
@@ -145,3 +145,62 @@
 
 # Bloquear sites Fraudulentos:
 	||solarosafabrica.com^$dnsrewrite=0.0.0.0,important
+
+# Bloquear servidores de anúncios:
+||imasdk.googleapis.com^
+||dai.google.com^
+||ssl.p.jwpcdn.com^
+||mssl.fwmrm.net^
+||widget.intercom.io^
+||impact.com^
+||cdn.optimizely.com^
+||vk.com/rtrg^
+||graph.instagram.com^
+||thetradedesk.com^
+||tagmanager.google.com^
+||cdn.privacy-mgmt.com^
+||app.usercentrics.eu^
+||consent.trustarc.com^
+||cookiebot.com^
+||consentcdn.cookiebot.com^
+||consent.cookiebot.com^
+||geolocation.onetrust.com^
+||cdn.cookielaw.org^
+||xp.apple.com^
+||pixel.quora.com^
+||ct.pinterest.com^
+||analytics.twitter.com^
+||ads.x.com^
+||i.instagram.com^
+||greatis.com^
+||bnc.lt^
+||app.adjust.com^
+||scorecardresearch.com^
+||redirector.googlevideo.com^
+||inmobi.com^
+||ads.microsoft.com^
+||bingads.microsoft.com^
+||facebook.com^
+||*.xx.fbcdn.net^
+||impactpool-emp.s3.eu-central-1.amazonaws.com^
+||video.xx.fbcdn.net^
+||cdn.taboola.com^
+||adtech.yahooinc.com^
+||gemini.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||metrika.yandex.ru^
+||appmetrica.yandex.ru^
+||log.fc.yahoo.com^
+||udcm.yahoo.com^
+||ads.yahoo.com^
+||ads.pinterest.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
+||ads-sg.tiktok.com^
+||ads-api.tiktok.com^
+||app.getsentry.com^
+||browser.sentry-cdn.com^
+||bugsnag.com^
+||click.googleanalytics.com^
+||media.net^
+||vidp6o-inapps.appsflyersdk.com^
