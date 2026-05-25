@@ -141,7 +141,7 @@
 	0.0.0.0 zoek.anchel.nl
 	
 # Bloquear sites brasileiros de Cassino:	
-    ||*.bet.br^$dnsrewrite=0.0.0.0,important
+    ||bet.br^$dnsrewrite=0.0.0.0,important
 
 # Bloquear sites Fraudulentos:
-	||solarosafabrica.com^$important
+	||solarosafabrica.com^$dnsrewrite=0.0.0.0,important
