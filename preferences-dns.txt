@@ -35,6 +35,7 @@
 	@@||shopee.com.br^$important
 	@@||pontofrio.com.br^$important
 	@@||netshoes.com.br^$important
+@@goto.fifa.com^$important
 	
 # Forçar Pesquisa Segura:
 	||google.com^$dnsrewrite=forcesafesearch.google.com
