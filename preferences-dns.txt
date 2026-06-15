@@ -4,37 +4,37 @@
 ! Version: 2.0.0-M
 !__________________[REGRAS]___________________
 # Não aplicar filtros:
-	@@||76.76.2.2^$important
-	@@||76.76.10.2^$important
-	@@||10.1.1.29^$important
-	@@||10.1.1.73:7070^$important
+@@||76.76.2.2^$important
+@@||76.76.10.2^$important
+@@||10.1.1.29^$important
+@@||10.1.1.73:7070^$important
 @@||facebook.com^$important
 @@||messenger.com^$important
 @@||instagram.com^$important
-    @@||*.comandax.com.br^$important
-	@@||moisesjmorais.github.io^$important
-	@@||waeweb.unifatecie.edu.br^$important
-	@@||eadunifatecie.com.br^$important
-	@@||portaldoaluno.fatecie.edu.br^$important
-	@@||sisac.unifatecie.io^$important
-	@@||ead.eduno.com.br^$important
-	@@||moodle.ifrs.edu.br^$important
-    @@||mundi.ifsul.edu.br^$important
-    @@||eskadauema.com^$important
-    @@||escolavirtual.gov.br^$important
-	@@||aprendamais.mec.gov.br^$important
-	@@||s.youtube.com^$important
-	@@||drive.google.com^$important
-	@@||mail.google.com^$important
-	@@||naval.com.br^$important
-	@@||*.gov.br^$important
-	@@||policiacivil.pr.gov.br^$important
-	@@||amazon.com.br^$important
-	@@||mercadolivre.com.br^$important
-	@@||magazineluiza.com.br^$important
-	@@||shopee.com.br^$important
-	@@||pontofrio.com.br^$important
-	@@||netshoes.com.br^$important
+@@||*.comandax.com.br^$important
+@@||moisesjmorais.github.io^$important
+@@||waeweb.unifatecie.edu.br^$important
+@@||eadunifatecie.com.br^$important
+@@||portaldoaluno.fatecie.edu.br^$important
+@@||sisac.unifatecie.io^$important
+@@||ead.eduno.com.br^$important
+@@||moodle.ifrs.edu.br^$important
+@@||mundi.ifsul.edu.br^$important
+@@||eskadauema.com^$important
+@@||escolavirtual.gov.br^$important
+@@||aprendamais.mec.gov.br^$important
+@@||s.youtube.com^$important
+@@||drive.google.com^$important
+@@||mail.google.com^$important
+@@||naval.com.br^$important
+@@||*.gov.br^$important
+@@||policiacivil.pr.gov.br^$important
+@@||amazon.com.br^$important
+@@||mercadolivre.com.br^$important
+@@||magazineluiza.com.br^$important
+@@||shopee.com.br^$important
+@@||pontofrio.com.br^$important
+@@||netshoes.com.br^$important
 @@goto.fifa.com^$important
 	
 # Forçar Pesquisa Segura:
@@ -148,7 +148,7 @@
     ||bet.br^$dnsrewrite=0.0.0.0,important
 
 # Bloquear sites Fraudulentos:
-	||solarosafabrica.com^$dnsrewrite=0.0.0.0,important
+||solarosafabrica.com^$dnsrewrite=0.0.0.0,important
 
 # Bloquear servidores de anúncios:
 ||imasdk.googleapis.com^
