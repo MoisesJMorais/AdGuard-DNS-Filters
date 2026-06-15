@@ -155,7 +155,6 @@
 ||impact.com^
 ||cdn.optimizely.com^
 ||vk.com/rtrg^
-||graph.instagram.com^
 ||thetradedesk.com^
 ||tagmanager.google.com^
 ||cdn.privacy-mgmt.com^
@@ -171,7 +170,6 @@
 ||ct.pinterest.com^
 ||analytics.twitter.com^
 ||ads.x.com^
-||i.instagram.com^
 ||greatis.com^
 ||bnc.lt^
 ||app.adjust.com^
