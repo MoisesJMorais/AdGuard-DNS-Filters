@@ -8,6 +8,8 @@
 	@@||76.76.10.2^$important
 	@@||10.1.1.29^$important
 	@@||10.1.1.73:7070^$important
+@@||facebook.com^$important
+@@||instagram.com^$important
     @@||*.comandax.com.br^$important
 	@@||moisesjmorais.github.io^$important
 	@@||waeweb.unifatecie.edu.br^$important
@@ -178,10 +180,7 @@
 ||inmobi.com^
 ||ads.microsoft.com^
 ||bingads.microsoft.com^
-||facebook.com^
-||*.xx.fbcdn.net^
 ||impactpool-emp.s3.eu-central-1.amazonaws.com^
-||video.xx.fbcdn.net^
 ||cdn.taboola.com^
 ||adtech.yahooinc.com^
 ||gemini.yahoo.com^
