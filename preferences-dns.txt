@@ -9,6 +9,7 @@
 	@@||10.1.1.29^$important
 	@@||10.1.1.73:7070^$important
 @@||facebook.com^$important
+@@||messenger.com^$important
 @@||instagram.com^$important
     @@||*.comandax.com.br^$important
 	@@||moisesjmorais.github.io^$important
