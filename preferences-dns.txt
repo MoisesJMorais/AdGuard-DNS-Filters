@@ -195,8 +195,7 @@
 ||udcm.yahoo.com^
 ||ads.yahoo.com^
 ||ads.pinterest.com^
-||business-api.tiktok.com^
-||ads.tiktok.com^
+||ads.iktok.com^
 ||ads-sg.tiktok.com^
 ||ads-api.tiktok.com^
 ||app.getsentry.com^
