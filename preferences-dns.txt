@@ -20,6 +20,7 @@
 @@||ead.eduno.com.br^$important
 @@||moodle.ifrs.edu.br^$important
 @@||mundi.ifsul.edu.br^$important
+@@||w3schools.com^$important
 @@||eskadauema.com^$important
 @@||escolavirtual.gov.br^$important
 @@||aprendamais.mec.gov.br^$important
